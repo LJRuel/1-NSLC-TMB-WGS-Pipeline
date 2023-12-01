@@ -1,5 +1,6 @@
 # NSLC-TMB  
-  Louis-Jacques Ruel, louis.jacques.ruel@gmail.com  
+  Author: Louis-Jacques Ruel, louis.jacques.ruel@gmail.com  
+  Last modificatiton: 2023-01-12  
   This repository contains a three parts whole-genome sequencing (WGS) analysis pipeline.  
   This was developped in the context of never smoker lung cancer study of tumor mutationnal burden (TMB). 
   1. NSLC-TMB-WGS-Pipeline: variant calling and annotation of WGS data.  
